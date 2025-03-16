@@ -79,4 +79,4 @@ print("Train accuracy : ", r2_score(y_train, grid_search.predict(X_train)))
 ## Contact
 For any queries, reach out via:
 - **Email**: emailaddress.prince@gmail.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/prince-vishwakarma-cse)
+- **LinkedIn**: [Prince Vishwakarma](https://linkedin.com/in/prince-vishwakarma-cse)
