@@ -19,7 +19,7 @@ This project aims to build a predictive model for estimating insurance prices ba
 The dataset contains multiple features relevant to insurance pricing, including:
 - **Age**: The age of the insured individual.
 - **BMI**: Body mass index, an indicator of health risk.
-- **Smoking Status**: A key factor in determining insurance cost.
+- **Smoking Status**: A key factor in determining loan cost.
 - **Region**: The geographical location affecting pricing.
 - **Number of Dependents**: Family structure influencing policy rates.
 
