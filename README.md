@@ -74,23 +74,9 @@ print("Train accuracy : ", r2_score(y_train, grid_search.predict(X_train)))
 
 ## Results & Insights
 - The **Gradient Boosting model** outperformed baseline regression models.
-- **Feature Importance Analysis** showed that smoking status, BMI, and age had the most significant impact on insurance pricing.
 - **Hyperparameter tuning** improved generalization and minimized overfitting.
-
-## Future Enhancements
-- Incorporate **deep learning techniques** for further accuracy improvements.
-- Deploy as a **web application** for real-world usability.
-- Integrate **real-time data pipelines** for continuous model updates.
-
-## Contributing
-Feel free to fork this repository and submit pull requests for improvements. Contributions are welcome!
-
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For any queries, reach out via:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your Repository](https://github.com/yourusername)
-
+- **Email**: emailaddress.prince@gmail.com
+- **LinkedIn**: [Your Profile](https://linkedin.com/in/prince-vishwakarma-cse)
